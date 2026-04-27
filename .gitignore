@@ -1,0 +1,8 @@
+﻿/vendor/
+/node_modules/
+.env
+/storage
+/bootstrap/cache
+.idea
+.ds_store
+*.log
